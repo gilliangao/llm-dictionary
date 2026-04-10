@@ -1,0 +1,1 @@
+Inference is the act of calling the model for text generation. 

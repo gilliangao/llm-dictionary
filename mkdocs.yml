@@ -1,0 +1,15 @@
+site_name: LLM Dictionary
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - Fundamentals:
+      - Transformer: fundamentals/transformer.md
+      - Attention: fundamentals/attention.md
+      - Token: fundamentals/token.md
+  - Training:
+      - Fine-tuning: training/fine-tuning.md
+      - RLHF: training/rlhf.md
+  - Applications:
+      - RAG: applications/rag.md
+      - Agents: applications/agents.md

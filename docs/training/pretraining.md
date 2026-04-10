@@ -1,0 +1,1 @@
+Pretraining is the first stage of training in the LLM - usually expensive 
