@@ -1,0 +1,1 @@
+Vocabulary Size (vocab_size) - The number of unique tokens a model knows

@@ -5,6 +5,7 @@ Attention is a mechanism that lets a model focus on the most relevant parts of t
 - Paper-- Attention is all you need 
 ![alt text](image.png)
 <!-- docs/fundamentals/NIPS-2017-attention-is-all-you-need-Paper.pdf -->
+- [Transformer Decoded PDF](docs/fundamentals/Transformer_Decoded.pdf)
 This is the paper that created Transformers (GPT, ChatGPT, etc.)
 ![alt text](image-2.png)
 

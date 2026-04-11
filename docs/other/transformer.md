@@ -1,0 +1,2 @@
+'The Transformer is a model “based solely on attention mechanisms”'
+A Transformer is a neural network architecture that uses attention mechanisms (along with other components) to process sequences efficiently.

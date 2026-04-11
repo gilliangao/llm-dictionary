@@ -1,1 +1,0 @@
-Finetuning is training the LLM to do a particular task. 
