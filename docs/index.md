@@ -1,8 +1,8 @@
 # LLM Dictionary
 
-Welcome to the LLM Dictionary.
+This site explains large language model concepts in simple language.
 
-This site explains large language model concepts in simple language, with short definitions, examples, and links between related ideas.
+It is meant to be a quick, beginner-friendly reference for how LLMs work, how they are trained, and how people use them in practice.
 
 ## Sections
 
@@ -23,26 +23,36 @@ This site explains large language model concepts in simple language, with short 
 
 - [Interacting with LLMs](applications/1_interacting.md)
 - [RAG](applications/2_rag.md)
-- [Prompting](applications/3_prompting)
+- [Prompting](applications/3_prompting.md)
 - [Agents](applications/agents.md)
 
-### Other Concepts
+### Concepts
 
-- [Softmax](other/softmax.md)
-- [Chain of Thought](other/cot.md)
-- [Few-Shot Prompting](other/few-shot.md)
-- [Expert Prompting](other/expert_prompt.md)
-- [Transformer](other/transformer.md)
-- [Inference](other/inference.md)
-- [API](other/API.md)
-- [Architecture](other/architecture.md)
-- [Parameters](other/parameters.md)
-- [Quantization](other/quantization.md)
-- [Sequence Length](other/sequence_length.md)
-- [Session State](other/session_state.md)
-- [Vocab Size](other/vocab_size.md)
-- [AI System](other/AI_system.md)
+- [AI System](concepts/AI_system.md)
+- [API](concepts/API.md)
+- [Architecture](concepts/architecture.md)
+- [Chain of Thought](concepts/cot.md)
+- [Expert Prompting](concepts/expert_prompt.md)
+- [Few-Shot Prompting](concepts/few-shot.md)
+- [Inference](concepts/inference.md)
+- [LangChain](concepts/Langchain.md)
+- [Parameters](concepts/parameters.md)
+- [Perplexity](concepts/perplexity.md)
+- [Quantization](concepts/quantization.md)
+- [Sequence Length](concepts/sequence_length.md)
+- [Session State](concepts/session_state.md)
+- [Skills](concepts/skills.md)
+- [Softmax](concepts/softmax.md)
+- [Streaming](concepts/streaming.md)
+- [Transformer](concepts/transformer.md)
+- [Vocab Size](concepts/vocab_size.md)
+
+### Adjacent Ideas
+
+- [f-string](adjacent/f_string.md)
+- [OCR](adjacent/ocr.md)
+- [PCA](adjacent/pca.md)
 
 ## Goal
 
-The goal of this project is to build a clear, beginner-friendly reference for modern LLM topics that is easy to browse and easy to expand.
+The goal of this project is to build a clear, beginner-friendly dictionary for modern LLM topics that is easy to browse and easy to expand.
