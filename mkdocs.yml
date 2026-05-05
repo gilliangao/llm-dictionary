@@ -4,12 +4,40 @@ theme:
 nav:
   - Home: index.md
   - Fundamentals:
-      - Transformer: fundamentals/transformer.md
-      - Attention: fundamentals/attention.md
-      - Token: fundamentals/token.md
+      - Hardware: fundamentals/1_hardware.md
+      - Token: fundamentals/2_token.md
+      - Embedding: fundamentals/3_embedding.md
+      - Attention: fundamentals/4_attention.md
   - Training:
-      - Fine-tuning: training/fine-tuning.md
+      - Pretraining: training/1_pretraining.md
+      - Fine-tuning: training/2_fine-tuning.md
       - RLHF: training/rlhf.md
   - Applications:
-      - RAG: applications/rag.md
-      - Agents: applications/agents.md
+      - Interacting with LLMs: applications/1_interacting.md
+      - RAG: applications/2_rag.md
+      - Prompting: applications/3_prompting.md
+      - Agent Stacks & Orchestration: applications/4_agent_stacks.md
+      - Agents (Concepts): applications/agents.md
+  - Concepts:
+      - AI System: concepts/AI_system.md
+      - API: concepts/API.md
+      - Architecture: concepts/architecture.md
+      - Chain of Thought: concepts/cot.md
+      - Expert Prompt: concepts/expert_prompt.md
+      - Few-shot: concepts/few-shot.md
+      - Inference: concepts/inference.md
+      - LangChain: concepts/Langchain.md
+      - Parameters: concepts/parameters.md
+      - Perplexity: concepts/perplexity.md
+      - Quantization: concepts/quantization.md
+      - Sequence Length: concepts/sequence_length.md
+      - Session State: concepts/session_state.md
+      - Skills: concepts/skills.md
+      - Softmax: concepts/softmax.md
+      - Streaming: concepts/streaming.md
+      - Transformer: concepts/transformer.md
+      - Vocab Size: concepts/vocab_size.md
+  - Adjacent:
+      - F String: adjacent/f_string.md
+      - OCR: adjacent/ocr.md
+      - PCA: adjacent/pca.md
