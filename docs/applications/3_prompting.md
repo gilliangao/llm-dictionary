@@ -15,3 +15,11 @@ Example:
 - “Write a short summary of the paragraph below.”
 
 A strong prompt helps the model give better, more useful answers.
+
+
+The PTCF (Persona + Task + Context + Format) framework
+
+Persona: what role the model should take (Identity)
+Task: what you want it to do (Action)
+Context: background, constraints, audience, inputs (Context)
+Format: how the answer should be structured (Output style)
